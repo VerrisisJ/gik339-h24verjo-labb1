@@ -11,7 +11,6 @@ const carName = 'Scania'; {
 var djur = 'Häst'; {
 } 
 console.log(djur)
-/* NÅGON MER KOMMENTAR OM DETTA ??????????? */
 
 /* Reflektion uppgift 2
 1. Beskriver hur var, let och const skiljer sig gällande block.
